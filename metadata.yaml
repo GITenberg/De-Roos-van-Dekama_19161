@@ -1,0 +1,31 @@
+_repo: De-Roos-van-Dekama_19161
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lennep, J. van (Jacob)
+    aliases:
+    - Lennep, Jakob van
+    - Van Lennep, J. (Jacob)
+    - Lennep, Jacob van
+    birthdate: 1802
+    deathdate: 1868
+    gutenberg_agent_id: '8513'
+    url: http://www.gutenberg.org/2009/agents/8513
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
+description: ''
+gutenberg_issued: '2006-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19161'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+title: De Roos van Dekama
+url: http://www.gutenberg.org/ebooks/19161
